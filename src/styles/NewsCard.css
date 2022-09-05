@@ -1,0 +1,12 @@
+.containerCard{
+    width: 250px;
+    height: 350px;
+    border-width: 1;
+    border-style: solid;
+    margin: 8px
+}
+
+.image{
+    width: 250px;
+    height: 170px
+}
